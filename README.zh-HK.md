@@ -2,7 +2,7 @@
 
 語言：[繁體中文（香港）](README.zh-HK.md) | [简体中文](README.zh-CN.md)
 
-項目主頁：[https://pseudoxx.github.io/hk-rental-tracker/](https://pseudoxx.github.io/hk-rental-tracker/)
+項目主頁：[https://pseudoomer.github.io/hk-rental-tracker/](https://pseudoomer.github.io/hk-rental-tracker/)
 
 香港租盤追蹤器為一本地運行之香港租務市場分析工具及 Codex Skill。本項目旨在按區域或屋苑追蹤美聯物業、中原地產、香港置業及利嘉閣之租盤資訊。系統將自動記錄房源之首次出現時間、首次從來源下架時間、租金、實用面積、呎租、具體樓層與室號，以及其於各平台之歷史動態。
 
@@ -12,20 +12,12 @@
 
 **免責聲明：** 本項目為獨立、非官方、本地運行之資訊整理工具，僅供個人租務市場觀察與分析；不提供地產代理、中介、撮合、推介、帶看、議價、訂約或收佣服務，亦不與任何地產代理公司存在從屬、授權、背書或合作關係。使用者須自行核驗租盤資訊及任何 AI 輸出，並確保其使用方式符合適用法律、相關網站之服務條款、授權範圍及訪問限制；不得用於違規自動化訪問、批量抓取、繞過技術措施、商業轉售或其他濫用。於法律允許範圍內，因使用或濫用本工具產生之責任與後果由使用者自行承擔。
 
-## 贊助支持
-
-如果這個工具對你有幫助，歡迎透過 Buy Me a Coffee 支持後續維護：
-
-<a href="https://buymeacoffee.com/pseudoxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
-
-懶得看這些技術細節，但希望持續跟蹤租盤市場、定期獲取公開租盤資訊與本地數據摘要？你可以透過 Buy Me a Coffee 訂閱，讓我替你運行監控和整理報告。請注意：這不是地產中介或代理服務，不提供帶看、撮合、推介、議價、訂約或任何收佣服務。
-
 ## 安裝指南
 
 建議使用 Python 3.10 或以上版本：
 
 ```bash
-git clone https://github.com/pseudoxx/hk-rental-tracker.git
+git clone https://github.com/pseudoomer/hk-rental-tracker.git
 cd hk-rental-tracker
 python3 -m venv .venv
 source .venv/bin/activate

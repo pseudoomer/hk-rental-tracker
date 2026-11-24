@@ -1,7 +1,7 @@
 ---
 name: hk-rental-tracker
 description: Work with this repo's local Hong Kong rental tracking system, including creating task folders, running scans, interpreting SQLite/CSV outputs, adjusting site search URLs, and discussing rental market changes from maintained local data.
-metadata: {"openclaw":{"requires":{"anyBins":["python3","python"]},"homepage":"https://github.com/pseudoxx/hk-rental-tracker","emoji":"🏠","version":"0.1.0"}}
+metadata: {"openclaw":{"requires":{"anyBins":["python3","python"]},"homepage":"https://github.com/pseudoomer/hk-rental-tracker","emoji":"🏠","version":"0.1.0"}}
 ---
 
 # HK Rental Tracker
